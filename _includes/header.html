@@ -15,13 +15,13 @@
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
-    {% if logo %}
+    <!--no logo {% if logo %}
       <span class="logo">
         {% if svg %}
           {{ svg | file_read }}
         {% else %}
           <img src="{{ logo | relative_url }}" alt="">
-        {% endif %}
+        {% endif %}-->
       </span>
     {% endif %}
     {% if site["logo-text"] != false %}

@@ -1,18 +1,20 @@
 ---
+title: Home
+nav:
+  order: 0
+  tooltip: Home page
 ---
 
-# GumusLab's Website
+# Zeynep Gümüş Lab
 
-An engaging 1-3 sentence description of your lab.
+Text about lab.
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Information about research, publications.
+<!--research/publications feature-->
 {%
   include button.html
   link="research"
@@ -33,13 +35,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!--software feature-->
+Information about various projects.
 
 {%
   include button.html
   link="tools"
-  text="Browse our projects"
+  text="Learn more here"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -57,10 +59,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+<!--team feature-->
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Meet the people behind the Gümüş Lab's work.
 {%
   include button.html
   link="team"

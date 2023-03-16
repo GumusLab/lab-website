@@ -1,16 +1,24 @@
-title: Gümüş Lab
-subtitle: Dr. Zeynep H. Gümüş
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+# site properties and page defaults
+title: Zeynep H. G&#252m&#252&#351 Lab
+subtitle: at The Icahn School of Medicine at Mount Sinai
+description: false
+header: false
+footer: false
+logo: false
+
+# site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: zeynep.gumus@mssm.edu
+  orcid: 0000-0002-7364-2202
+  google-scholar: N0FiVZ4AAAAJ
+  github: GumusLab
+  twitter: ZeynepHG
+ # instagram: false
+ # youtube: false
+
+### jekyll settings
+
+# front matter defaults
 defaults:
   - scope:
       path: ""
