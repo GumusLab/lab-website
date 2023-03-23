@@ -9,7 +9,7 @@ links:
   twitter: turhanberk99
   orcid: 0000-0002-6471-0357
   google-scholar: rbfooHQAAAAJ
-  home-page: turhan.io
+  home-page: https://turhan.io
 ---
 
 **Research Scholar**<br>
@@ -19,5 +19,6 @@ New York, NY
 
 
 **Education**<br>
-B.S. Computer Science and Engineering - Sabanci University, Istanbul, Turkey<br>
-B.S. Molecular Biology, Genetics and Bioengineering - Sabanci University, Istanbul, Turkey<br>
+***Sabanci University, Istanbul, Turkey***
+B.S. Computer Science and Engineering <br>
+B.S. Molecular Biology, Genetics and Bioengineering<br>
