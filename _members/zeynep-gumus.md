@@ -3,8 +3,7 @@ name: Zeynep H. Gümüş
 image: images/gumus.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - ZH Gümüş
 links:
   email: zeynep.gumus@mssm.edu
   orcid: 0000-0002-7364-2202
@@ -13,16 +12,17 @@ links:
   twitter: ZeynepHG
 ---
 
-**Assistant Professor**<br>
-Icahn Institute of Genomics and Multiscale Biology and<br>
-Department of Genetics and Genomics<br>
+**Associate Professor**<br>
+Icahn Genomics Institute<br>
+Department of Genetics and Genomic Sciences<br>
 Member, Tish Cancer Institute<br>
+Member, Precision Immunology Institute
 Mount Sinai School of Medicine<br>
 
-**Adjunct Assistant Professor**<br>
+<!-- **Adjunct Assistant Professor**<br>
 Department of Medicine<br>
 Weill Medical College<br>
-Cornell University<br>
+Cornell University<br> -->
 
 **Education**<br>
 Ph. D. Princeton University, Princeton, NJ<br>
