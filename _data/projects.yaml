@@ -1,47 +1,41 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: ImmuneRegulation
+  subtitle: 
   group: 
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/immune-regulation.png
+  link: https://immuneregulation.mssm.edu/
+  description: ImmuneRegulation provides visualization, exploration, and download of large-number of regulatory data through a single, and intuitive interface.
+  repo: 
+  tags: 
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: CPTAC-CCRCC
+  subtitle: 
   group: 
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/CPTAC-CCRCC.png
+  link: http://ccrcc.cptac-network-view.org/
+  description: NCI supported Clinical Proteomic Tumor Analysis Consortium (CPTAC), is a comprehensive and coordinated effort to accelerate the understanding of the molecular basis of cancer through the application of large-scale proteome (proteins) and genome (DNA and RNA) analysis technologies to different cancer types. This page provides visualization of the networks estimated based on proteogenomic data from CPTAC-CCRCC discovery project.
+  repo: 
+  tags: 
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: PhosNetVis
+  subtitle: 
+  group: 
+  image: images/phosnetvis.jpeg
+  link: https://phosnetvis.app/
+  description: PhosNetVis is a web-based platform for integrated kinase enrichment analyses and interactive 3D network visualizations of phosphoproteomics datasets.
+  repo: 
   tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: PREDICTNet
+  subtitle: 
+  image: images/predictnet.png
+  link: https://gumuslab.github.io/PREDICTNet/
+  description: Multi-omics network analyses to identify key drivers of disease initiation and progression in the preclinical phase of inflammatory bowel disease (IBD).
+  repo: 
+  tags: 
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: iCAVE
+  subtitle: 
+  image: images/icave.gif
+  link: iCAVE
+  description: interactome-CAVE (iCAVE) is a novel integrative visualization platform that introduces novel sophisticated algorithms to automatically generate intuitive visualizations, leveraged on advanced sterescopic (3D) immersive display technologies to address the scalability limitations of traditional 2D representations. iCAVE utilizes its built-in analyses of network topological properties to enable effective representations that maximize understanding of the underlying network structures in complex networks.
+  tags: 

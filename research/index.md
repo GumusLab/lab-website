@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Description of scope of research.
-
 {% include section.html %}
 
 {% include search-box.html %}

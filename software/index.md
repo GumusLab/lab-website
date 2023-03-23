@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Brief description of scope of projects.
-
 <!--make it searchable by tags {% include tags.html tags="publication, resource, website" %}-->
 
 <!--{% include search-info.html %}-->

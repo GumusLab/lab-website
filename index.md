@@ -5,15 +5,14 @@ nav:
   tooltip: Home page
 ---
 
-# Zeynep Gümüş Lab
+# Zeynep H. Gümüş Lab
 
-Text about lab.
+We are a team of computational geneticists, computer scientists,  engineers, and data visualization design experts who aim to understand genetic drivers of cancer risk, progression and immunotherapy response. We develop new routes to analyze, integrate and explore diverse, massive and heterogenous datasets by utilizing tools from genomic epidemiology, computational genomics, data science, data visualization and ultrafast computing.  You can find our software distributed on [GitHub](https://github.com/GumusLab/ "Our GitHub")!
 
 {% include section.html %}
 
 {% capture text %}
 
-Information about research, publications.
 <!--research/publications feature-->
 {%
   include button.html
@@ -36,8 +35,6 @@ Information about research, publications.
 
 {% capture text %}
 <!--software feature-->
-Information about various projects.
-
 {%
   include button.html
   link="tools"
@@ -61,8 +58,6 @@ Information about various projects.
 
 <!--team feature-->
 {% capture text %}
-
-Meet the people behind the Gümüş Lab's work.
 {%
   include button.html
   link="team"

@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We would love to hear from you! We are located here, enthusiastic about collaboration, etc.
+We would love to hear from you!
 
 {%
   include button.html
