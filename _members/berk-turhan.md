@@ -19,6 +19,6 @@ New York, NY
 
 
 **Education**<br>
-***Sabanci University, Istanbul, Turkey***<br>
+*Sabanci University, Istanbul, Turkey*<br>
 B.S. Computer Science and Engineering <br>
 B.S. Molecular Biology, Genetics and Bioengineering<br>
