@@ -8,7 +8,7 @@
   margin: 10px;
   background: var(--background);
   border-radius: var(--rounded);
-  height: 500px;
+  height: 450px;
   overflow: scroll;
   box-shadow: var(--shadow);
   vertical-align: top;
@@ -21,6 +21,7 @@
 .card-image img {
   aspect-ratio: 3/2;
   object-fit: cover;
+  border: 1px solid black;
 }
 
 .card-text {
