@@ -49,7 +49,7 @@ def main(entry):
                 # copy fields from entry to source
                 source.update(entry)
 
-                # add source to list
-                sources.append(source)
+            # add source to list
+            sources.append(source)
 
     return sources
