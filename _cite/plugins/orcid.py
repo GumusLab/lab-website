@@ -39,13 +39,17 @@ def main(entry):
             id_type = id["external-id-type"]
             id_value = id["external-id-value"]
 
-            # create source
-            source = {"id": f"{id_type}:{id_value}"}
+            if id_type != 'doi':
+                pass
+            else:
 
-            # copy fields from entry to source
-            source.update(entry)
+                # create source
+                source = {"id": f"{id_type}:{id_value}"}
 
-            # add source to list
-            sources.append(source)
+                # copy fields from entry to source
+                source.update(entry)
+
+                # add source to list
+                sources.append(source)
 
     return sources
