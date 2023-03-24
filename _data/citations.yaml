@@ -403,6 +403,96 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:31675502
+  title: Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma.
+  authors:
+  - David J Clark
+  - Saravana M Dhanasekaran
+  - Francesca Petralia
+  - Jianbo Pan
+  - Xiaoyu Song
+  - Yingwei Hu
+  - Felipe da Veiga Leprevost
+  - Boris Reva
+  - Tung-Shing M Lih
+  - Hui-Yin Chang
+  - Weiping Ma
+  - Chen Huang
+  - Christopher J Ricketts
+  - Lijun Chen
+  - Azra Krek
+  - Yize Li
+  - Dmitry Rykunov
+  - Qing Kay Li
+  - Lin S Chen
+  - Umut Ozbek
+  - Suhas Vasaikar
+  - Yige Wu
+  - Seungyeul Yoo
+  - Shrabanti Chowdhury
+  - Matthew A Wyczalkowski
+  - Jiayi Ji
+  - Michael Schnaubelt
+  - Andy Kong
+  - Sunantha Sethuraman
+  - Dmitry M Avtonomov
+  - Minghui Ao
+  - Antonio Colaprico
+  - Song Cao
+  - Kyung-Cho Cho
+  - Selim Kalayci
+  - Shiyong Ma
+  - Wenke Liu
+  - Kelly Ruggles
+  - Anna Calinawan
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Daniel Geiszler
+  - Emily Kawaler
+  - Guo Ci Teo
+  - Bo Wen
+  - Yuping Zhang
+  - Sarah Keegan
+  - Kai Li
+  - Feng Chen
+  - Nathan Edwards
+  - Phillip M Pierorazio
+  - Xi Steven Chen
+  - Christian P Pavlovich
+  - A Ari Hakimi
+  - Gabriel Brominski
+  - James J Hsieh
+  - Andrzej Antczak
+  - Tatiana Omelchenko
+  - Jan Lubinski
+  - Maciej Wiznerowicz
+  - W Marston Linehan
+  - Christopher R Kinsinger
+  - Mathangi Thiagarajan
+  - Emily S Boja
+  - Mehdi Mesri
+  - Tara Hiltke
+  - Ana I Robles
+  - Henry Rodriguez
+  - Jiang Qian
+  - "David Feny\xF6"
+  - Bing Zhang
+  - Li Ding
+  - Eric Schadt
+  - Arul M Chinnaiyan
+  - Zhen Zhang
+  - Gilbert S Omenn
+  - Marcin Cieslik
+  - Daniel W Chan
+  - Alexey I Nesvizhskii
+  - Pei Wang
+  - Hui Zhang
+  - ' '
+  publisher: Cell
+  date: '2019-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31675502
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/752980
   title: 'Dynamical rearrangement of human epidermal growth factor receptor 2 upon
     antibody binding: effects on the dimerization'
@@ -511,6 +601,597 @@
   publisher: GigaScience Database
   date: '2017-01-01'
   link: https://doi.org/grxpzr
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27472327
+  title: A Machine Learning Approach for Hot-Spot Detection at Protein-Protein Interfaces.
+  authors:
+  - Rita Melo
+  - Robert Fieldhouse
+  - "Andr\xE9 Melo"
+  - "Jo\xE3o D G Correia"
+  - "Maria Nat\xE1lia D S Cordeiro"
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Joaquim Costa
+  - Alexandre M J J Bonvin
+  - Irina S Moreira
+  publisher: International journal of molecular sciences
+  date: '2016-07-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27472327
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26006007
+  title: Comprehensive models of human primary and metastatic colorectal tumors in
+    immunodeficient and immunocompetent mice by chemokine targeting.
+  authors:
+  - Huanhuan Joyce Chen
+  - Jian Sun
+  - Zhiliang Huang
+  - Harry Hou
+  - Myra Arcilla
+  - Nikolai Rakhilin
+  - Daniel J Joe
+  - Jiahn Choi
+  - Poornima Gadamsetty
+  - Jeff Milsom
+  - Govind Nandakumar
+  - Randy Longman
+  - Xi Kathy Zhou
+  - Robert Edwards
+  - Jonlin Chen
+  - Kai Yuan Chen
+  - Pengcheng Bu
+  - Lihua Wang
+  - Yitian Xu
+  - Robert Munroe
+  - Christian Abratte
+  - Andrew D Miller
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Michael Shuler
+  - Nozomi Nishimura
+  - Winfried Edelmann
+  - Xiling Shen
+  - Steven M Lipkin
+  publisher: Nature biotechnology
+  date: '2015-05-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26006007
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC4532544
+  title: Comprehensive models of human primary and metastatic colorectal tumors in
+    immunodeficient and immunocompetent mice by chemokine targeting
+  authors:
+  - Huanhuan Joyce Chen
+  - Jian Sun
+  - Zhiliang Huang
+  - Harry Hou
+  - Myra Arcilla
+  - Nikolai Rakhilin
+  - Daniel J Joe
+  - Jiahn Choi
+  - Poornima Gadamsetty
+  - Jeff Milsom
+  - Govind Nandakumar
+  - Randy Longman
+  - Xi Kathy Zhou
+  - Robert Edwards
+  - Jonlin Chen
+  - Kai Yuan Chen
+  - Pengcheng Bu
+  - Lihua Wang
+  - Yitian Xu
+  - Robert Munroe
+  - Christian Abratte
+  - Andrew D Miller
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Michael Shuler
+  - Nozomi Nishimura
+  - Winfried Edelmann
+  - Xiling Shen
+  - Steven M Lipkin
+  publisher: Nature biotechnology
+  date: '2015-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532544/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25872451
+  title: "miR-1269 promotes metastasis and forms a positive feedback loop with TGF-\u03B2\
+    ."
+  authors:
+  - Pengcheng Bu
+  - Lihua Wang
+  - Kai-Yuan Chen
+  - Nikolai Rakhilin
+  - Jian Sun
+  - Adria Closa
+  - Kuei-Ling Tung
+  - Sarah King
+  - Anastasia Kristine Varanko
+  - Yitian Xu
+  - Joyce Huan Chen
+  - Amelia S Zessin
+  - James Shealy
+  - Bethany Cummings
+  - David Hsu
+  - Steven M Lipkin
+  - Victor Moreno
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Xiling Shen
+  publisher: Nature communications
+  date: '2015-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25872451
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC4399006
+  title: "miR-1269 promotes metastasis and forms a positive feedback loop with TGF-\u03B2"
+  authors:
+  - Pengcheng Bu
+  - Lihua Wang
+  - Kai-Yuan Chen
+  - Nikolai Rakhilin
+  - Jian Sun
+  - Adria Closa
+  - Kuei-Ling Tung
+  - Sarah King
+  - Anastasia Kristine Varanko
+  - Yitian Xu
+  - Joyce Huan Chen
+  - Amelia S Zessin
+  - James Shealy
+  - Bethany Cummings
+  - David Hsu
+  - Steven M Lipkin
+  - Victor Moreno
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Xiling Shen
+  publisher: Nature communications
+  date: '2015-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399006/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3947637
+  title: 'Integrative annotation of variants from 1092 humans: application to cancer
+    genomics'
+  authors:
+  - Ekta Khurana
+  - Yao Fu
+  - Vincenza Colonna
+  - Xinmeng Jasmine Mu
+  - Hyun Min Kang
+  - Tuuli Lappalainen
+  - Andrea Sboner
+  - Lucas Lochovsky
+  - Jieming Chen
+  - Arif Harmanci
+  - Jishnu Das
+  - Alexej Abyzov
+  - Suganthi Balasubramanian
+  - Kathryn Beal
+  - Dimple Chakravarty
+  - Daniel Challis
+  - Yuan Chen
+  - Declan Clarke
+  - Laura Clarke
+  - Fiona Cunningham
+  - Uday S Evani
+  - Paul Flicek
+  - Robert Fragoza
+  - Erik Garrison
+  - Richard Gibbs
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Javier Herrero
+  - Naoki Kitabayashi
+  - Yong Kong
+  - Kasper Lage
+  - Vaja Liluashvili
+  - Steven M Lipkin
+  - Daniel G MacArthur
+  - Gabor Marth
+  - Donna Muzny
+  - Tune H Pers
+  - Graham R S Ritchie
+  - Jeffrey A Rosenfeld
+  - Cristina Sisu
+  - Xiaomu Wei
+  - Michael Wilson
+  - Yali Xue
+  - Fuli Yu
+  - ' 1000 Genomes Project Consortium'
+  - Emmanouil T Dermitzakis
+  - Haiyuan Yu
+  - Mark A Rubin
+  - Chris Tyler-Smith
+  - Mark Gerstein
+  publisher: Science (New York, N.Y.)
+  date: '2013-10-04'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3947637/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24092746
+  title: 'Integrative annotation of variants from 1092 humans: application to cancer
+    genomics.'
+  authors:
+  - Ekta Khurana
+  - Yao Fu
+  - Vincenza Colonna
+  - Xinmeng Jasmine Mu
+  - Hyun Min Kang
+  - Tuuli Lappalainen
+  - Andrea Sboner
+  - Lucas Lochovsky
+  - Jieming Chen
+  - Arif Harmanci
+  - Jishnu Das
+  - Alexej Abyzov
+  - Suganthi Balasubramanian
+  - Kathryn Beal
+  - Dimple Chakravarty
+  - Daniel Challis
+  - Yuan Chen
+  - Declan Clarke
+  - Laura Clarke
+  - Fiona Cunningham
+  - Uday S Evani
+  - Paul Flicek
+  - Robert Fragoza
+  - Erik Garrison
+  - Richard Gibbs
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Javier Herrero
+  - Naoki Kitabayashi
+  - Yong Kong
+  - Kasper Lage
+  - Vaja Liluashvili
+  - Steven M Lipkin
+  - Daniel G MacArthur
+  - Gabor Marth
+  - Donna Muzny
+  - Tune H Pers
+  - Graham R S Ritchie
+  - Jeffrey A Rosenfeld
+  - Cristina Sisu
+  - Xiaomu Wei
+  - Michael Wilson
+  - Yali Xue
+  - Fuli Yu
+  - ' '
+  - Emmanouil T Dermitzakis
+  - Haiyuan Yu
+  - Mark A Rubin
+  - Chris Tyler-Smith
+  - Mark Gerstein
+  publisher: Science (New York, N.Y.)
+  date: '2013-10-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24092746
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3646336
+  title: A microRNA miR-34a-regulated bimodal switch targets Notch in colon cancer
+    stem cells
+  authors:
+  - Pengcheng Bu
+  - Kai-Yuan Chen
+  - Joyce Huan Chen
+  - Lihua Wang
+  - Jewell Walters
+  - Yong Jun Shin
+  - Julian P Goerger
+  - Jian Sun
+  - Mavee Witherspoon
+  - Nikolai Rakhilin
+  - Jiahe Li
+  - Herman Yang
+  - Jeff Milsom
+  - Sang Lee
+  - Warren Zipfel
+  - Moonsoo M Jin
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Steven M Lipkin
+  - Xiling Shen
+  publisher: Cell stem cell
+  date: '2013-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3646336/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23642368
+  title: A microRNA miR-34a-regulated bimodal switch targets Notch in colon cancer
+    stem cells.
+  authors:
+  - Pengcheng Bu
+  - Kai-Yuan Chen
+  - Joyce Huan Chen
+  - Lihua Wang
+  - Jewell Walters
+  - Yong Jun Shin
+  - Julian P Goerger
+  - Jian Sun
+  - Mavee Witherspoon
+  - Nikolai Rakhilin
+  - Jiahe Li
+  - Herman Yang
+  - Jeff Milsom
+  - Sang Lee
+  - Warren Zipfel
+  - Moonsoo M Jin
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Steven M Lipkin
+  - Xiling Shen
+  publisher: Cell stem cell
+  date: '2013-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23642368
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC4419739
+  title: 'Rapid temporal changes in the expression of a set of neuromodulatory genes
+    during alcohol withdrawal in the dorsal vagal complex: molecular evidence of homeostatic
+    disturbance'
+  authors:
+  - Kate Freeman
+  - Mary M Staehle
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Rajanikanth Vadigepalli
+  - Gregory E Gonye
+  - Carmen N Nichols
+  - Babatunde A Ogunnaike
+  - Jan B Hoek
+  - James S Schwaber
+  publisher: Alcoholism, clinical and experimental research
+  date: '2012-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419739/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22486438
+  title: 'Rapid temporal changes in the expression of a set of neuromodulatory genes
+    during alcohol withdrawal in the dorsal vagal complex: molecular evidence of homeostatic
+    disturbance.'
+  authors:
+  - Kate Freeman
+  - Mary M Staehle
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Rajanikanth Vadigepalli
+  - Gregory E Gonye
+  - Carmen N Nichols
+  - Babatunde A Ogunnaike
+  - Jan B Hoek
+  - James S Schwaber
+  publisher: Alcoholism, clinical and experimental research
+  date: '2012-04-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22486438
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22863617
+  title: Chemokine 25-induced signaling suppresses colon cancer invasion and metastasis.
+  authors:
+  - Huanhuan Joyce Chen
+  - Robert Edwards
+  - Serena Tucci
+  - Pengcheng Bu
+  - Jeff Milsom
+  - Sang Lee
+  - Winfried Edelmann
+  - "Zeynep H G\xFCm\xFCs"
+  - Xiling Shen
+  - Steven Lipkin
+  publisher: The Journal of clinical investigation
+  date: '2012-08-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22863617
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3428084
+  title: Chemokine 25-induced signaling suppresses colon cancer invasion and metastasis
+  authors:
+  - Huanhuan Joyce Chen
+  - Robert Edwards
+  - Serena Tucci
+  - Pengcheng Bu
+  - Jeff Milsom
+  - Sang Lee
+  - Winfried Edelmann
+  - "Zeynep H G\xFCm\xFCs"
+  - Xiling Shen
+  - Steven Lipkin
+  publisher: The Journal of clinical investigation
+  date: '2012-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428084/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22628407
+  title: miR-23a promotes the transition from indolent to invasive colorectal cancer.
+  authors:
+  - Sohail Jahid
+  - Jian Sun
+  - Robert A Edwards
+  - Diana Dizon
+  - Nicole C Panarelli
+  - Jeffrey W Milsom
+  - Shaheen S Sikandar
+  - "Zeynep H G\xFCm\xFCs"
+  - Steven M Lipkin
+  publisher: Cancer discovery
+  date: '2012-03-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22628407
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3651884
+  title: miR-23a promotes the transition from indolent to invasive colorectal cancer
+  authors:
+  - Sohail Jahid
+  - Jian Sun
+  - Robert A Edwards
+  - Diana Dizon
+  - Nicole C Panarelli
+  - Jeffrey W Milsom
+  - Shaheen S Sikandar
+  - "Zeynep H G\xFCm\xFCs"
+  - Steven M Lipkin
+  publisher: Cancer discovery
+  date: '2012-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3651884/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3826923
+  title: Resistance/response molecular signature for oral tongue squamous cell carcinoma
+  authors:
+  - Amritha Suresh
+  - Muhil Vannan
+  - Dhanya Kumaran
+  - "Zeynep H G\xFCm\xFCs"
+  - Priya Sivadas
+  - Elango Erode Murugaian
+  - Vikram Kekatpure
+  - Subramanian Iyer
+  - Kumarasamy Thangaraj
+  - Moni Abraham Kuriakose
+  publisher: Disease markers
+  date: '2012-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3826923/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22297602
+  title: Resistance/response molecular signature for oral tongue squamous cell carcinoma.
+  authors:
+  - Amritha Suresh
+  - Muhil Vannan
+  - Dhanya Kumaran
+  - "Zeynep H G\xFCm\xFCs"
+  - Priya Sivadas
+  - Elango Erode Murugaian
+  - Vikram Kekatpure
+  - Subramanian Iyer
+  - Kumarasamy Thangaraj
+  - Moni Abraham Kuriakose
+  publisher: Disease markers
+  date: '2012-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22297602
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20179299
+  title: Effects of cigarette smoke on the human oral mucosal transcriptome.
+  authors:
+  - Jay O Boyle
+  - "Zeynep H G\xFCm\xFCs"
+  - Ashutosh Kacker
+  - Vishal L Choksi
+  - Jennifer M Bocker
+  - Xi Kathy Zhou
+  - Rhonda K Yantiss
+  - Duncan B Hughes
+  - Baoheng Du
+  - Benjamin L Judson
+  - Kotha Subbaramaiah
+  - Andrew J Dannenberg
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2010-02-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20179299
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC2833216
+  title: Effects of cigarette smoke on the human oral mucosal transcriptome
+  authors:
+  - Jay O Boyle
+  - "Zeynep H G\xFCm\xFCs"
+  - Ashutosh Kacker
+  - Vishal L Choksi
+  - Jennifer M Bocker
+  - Xi Kathy Zhou
+  - Rhonda K Yantiss
+  - Duncan B Hughes
+  - Baoheng Du
+  - Benjamin L Judson
+  - Kotha Subbaramaiah
+  - Andrew J Dannenberg
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2010-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2833216/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC2635340
+  title: 'Towards a quantitative representation of the cell signaling mechanisms of
+    hallucinogens: measurement and mathematical modeling of 5-HT1A and 5-HT2A receptor-mediated
+    ERK1/2 activation'
+  authors:
+  - Chiung-Wen Chang
+  - Ethan Poteet
+  - John A Schetz
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Harel Weinstein
+  publisher: Neuropharmacology
+  date: '2009-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635340/
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18762202
+  title: 'Towards a quantitative representation of the cell signaling mechanisms of
+    hallucinogens: measurement and mathematical modeling of 5-HT1A and 5-HT2A receptor-mediated
+    ERK1/2 activation.'
+  authors:
+  - Chiung-Wen Chang
+  - Ethan Poteet
+  - John A Schetz
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Harel Weinstein
+  publisher: Neuropharmacology
+  date: '2008-08-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18762202
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19138943
+  title: Effects of tobacco smoke on gene expression and cellular pathways in a cellular
+    model of oral leukoplakia.
+  authors:
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Baoheng Du
+  - Ashutosh Kacker
+  - Jay O Boyle
+  - Jennifer M Bocker
+  - Piali Mukherjee
+  - Kotha Subbaramaiah
+  - Andrew J Dannenberg
+  - Harel Weinstein
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2008-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19138943
+  orcid: 0000-0002-7364-2202
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3773527
+  title: Effects of tobacco smoke on gene expression and cellular pathways in a cellular
+    model of oral leukoplakia
+  authors:
+  - "Zeynep H G\xFCm\xFC\u015F"
+  - Baoheng Du
+  - Ashutosh Kacker
+  - Jay O Boyle
+  - Jennifer M Bocker
+  - Piali Mukherjee
+  - Kotha Subbaramaiah
+  - Andrew J Dannenberg
+  - Harel Weinstein
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2008-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3773527/
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
