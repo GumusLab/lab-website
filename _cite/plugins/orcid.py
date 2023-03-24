@@ -34,23 +34,22 @@ def main(entry):
     accumulator = 0
     # go through response structure and pull out ids e.g. doi:1234/56789
     for work in response:
+        accumulator += 1
         for id in work["external-ids"]["external-id"]:
-            # get id and id-type from response
-            id_type = id["external-id-type"]
-            id_value = id["external-id-value"]
 
-            if id_type != 'doi':
-                pass
-            else:
-                accumulator += 1
+            if id["external-id-type"] == 'doi':
+                 # get id and id-type from response
+                id_type = id["external-id-type"]
+                id_value = id["external-id-value"]
+
                 # create source
                 source = {"id": f"{id_type}:{id_value}"}
 
-            # copy fields from entry to source
-            source.update(entry)
+                # copy fields from entry to source
+                source.update(entry)
 
-            # add source to list
-            sources.append(source)
+                # add source to list
+                sources.append(source)
     print(accumulator)
 
     return sources
