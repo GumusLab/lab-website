@@ -31,7 +31,9 @@ def main(entry):
 
     # list of sources to return
     sources = []
+
     accumulator = 0
+
     # go through response structure and pull out ids e.g. doi:1234/56789
     for work in response:
         accumulator += 1
@@ -50,6 +52,8 @@ def main(entry):
 
                 # add source to list
                 sources.append(source)
-    print(accumulator)
+                break
+
+    print(f"{accumulator} sources found.")
 
     return sources
