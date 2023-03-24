@@ -31,7 +31,7 @@ def main(entry):
 
     # list of sources to return
     sources = []
-
+    accumulator = 0
     # go through response structure and pull out ids e.g. doi:1234/56789
     for work in response:
         for id in work["external-ids"]["external-id"]:
@@ -42,14 +42,15 @@ def main(entry):
             if id_type != 'doi':
                 pass
             else:
-
+                accumulator += 1
                 # create source
                 source = {"id": f"{id_type}:{id_value}"}
 
-                # copy fields from entry to source
-                source.update(entry)
+            # copy fields from entry to source
+            source.update(entry)
 
             # add source to list
             sources.append(source)
+    print(accumulator)
 
     return sources
