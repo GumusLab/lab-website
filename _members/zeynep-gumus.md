@@ -1,5 +1,5 @@
 ---
-name: Zeynep H. Gümüş
+name: Zeynep H. Gümüş, PhD
 image: images/gumus.jpg
 role: pi
 aliases:
@@ -13,16 +13,11 @@ links:
 ---
 
 **Associate Professor**<br>
-Icahn Genomics Institute<br>
+Icahn Genomics Institute<br style>
 Department of Genetics and Genomic Sciences<br>
-Member, Tish Cancer Institute<br>
-Member, Precision Immunology Institute
-Mount Sinai School of Medicine<br>
-
-<!-- **Adjunct Assistant Professor**<br>
-Department of Medicine<br>
-Weill Medical College<br>
-Cornell University<br> -->
+Tish Cancer Institute<br>
+Precision Immunology Institute <br>
+Icahn School of Medicine at Mount Sinai<br>
 
 **Education**<br>
 Ph. D. Princeton University, Princeton, NJ<br>
