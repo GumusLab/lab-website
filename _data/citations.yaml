@@ -1,10 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: eid:2-s2.0-85113621988
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/s41698-023-00354-3
   title: Germline rare deleterious variant load alters cancer risk, age of onset and
     tumor characteristics
@@ -35,16 +30,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85146962834
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85141313793
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.jtho.2022.10.002
   title: 'SCLC: Epidemiology, Risk Factors, Genetic Susceptibility, Molecular Pathology,
     Screening, and Early Detection'
@@ -82,11 +67,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85133980632
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/s42003-022-03572-w
   title: 'Author Correction: Brain aging is faithfully modelled in organotypic brain
     slices and accelerated by prions'
@@ -104,11 +84,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85132204352
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/2022.02.06.479288
   title: Brain aging is faithfully modelled in organotypic brain slices and accelerated
     by prions
@@ -126,16 +101,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85127304383
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85131621980
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/s42003-022-03496-5
   title: Brain aging is faithfully modelled in organotypic brain slices and accelerated
     by prions
@@ -164,16 +129,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85130978789
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85133980527
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1158/1055-9965.EPI-21-1287
   title: Germline Pathogenic Variants Impact Clinicopathology of Advanced Lung Cancer
   authors:
@@ -220,11 +175,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85103166221
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/s41388-021-01697-6
   title: Generation of TRAIL-resistant cell line models reveals distinct adaptive
     mechanisms for acquired resistance and re-sensitization
@@ -277,11 +227,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85102374641
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.cell.2021.07.016
   title: A proteogenomic portrait of lung squamous cell carcinoma
   authors:
@@ -453,11 +398,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85111677413
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1158/1940-6207.CAPR-20-0094
   title: Functional Common and Rare <i>ERBB2</i> Germline Variants Cooperate in Familial
     and Sporadic Cancer Susceptibility
@@ -482,21 +422,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85103862726
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85104934177
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85099224746
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.neuron.2021.03.004
   title: Novel ultra-rare exonic variants identified in a founder population implicate
     cadherins in schizophrenia
@@ -563,11 +488,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85085701416
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/2020.04.14.032557
   title: Ancestry-Specific Predisposing Germline Variants in Cancer
   authors:
@@ -587,11 +507,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85098906005
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1186/s13073-020-00744-3
   title: Ancestry-specific predisposing germline variants in cancer
   authors:
@@ -611,11 +526,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85102221318
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.csbj.2020.04.003
   title: Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on
     local conformations and dynamics of K-Ras
@@ -629,11 +539,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85083785202
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/2020.03.26.010710
   title: Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on
     local conformations and dynamics of K-Ras
@@ -647,11 +552,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85083855164
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.celrep.2020.107569
   title: Comprehensive Immunoprofiling of Pediatric Zika Reveals Key Role for Monocytes
     in the Acute Phase and No Effect of Prior Dengue Virus Infection
@@ -676,11 +576,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85077333497
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.cell.2019.12.026
   title: Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma
   authors:
@@ -914,11 +809,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85085607706
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.immuni.2020.05.002
   title: 'Immunology of COVID-19: Current State of the Science'
   authors:
@@ -1016,11 +906,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85091218577
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.jtho.2020.08.017
   title: Inherited Rare, Deleterious Variants in ATM Increase Lung Adenocarcinoma
     Risk
@@ -1065,11 +950,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85098929639
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.cell.2020.10.044
   title: Integrated Proteogenomic Characterization across Major Histological Types
     of Pediatric Brain Cancer
@@ -1224,16 +1104,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85097475909
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85098895512
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1002/pmic.202000043
   title: "ProNetView\u2010ccRCC: A Web\u2010Based Portal to Interactively Explore\
     \ Clear Cell Renal Cell Carcinoma Proteogenomics Networks"
@@ -1248,11 +1118,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85085496082
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/2020.03.12.981357
   title: 'ProNetView-ccRCC: A web-based portal to interactively explore clear cell
     renal cell carcinoma proteogenomics networks'
@@ -1267,11 +1132,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85087400742
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.cell.2020.06.013
   title: Proteogenomic Characterization Reveals Therapeutic Vulnerabilities in Lung
     Adenocarcinoma
@@ -1490,16 +1350,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85074492454
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85074028553
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.cell.2019.10.007
   title: Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma
   authors:
@@ -1733,101 +1583,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:31675502
-  title: Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma.
-  authors:
-  - David J Clark
-  - Saravana M Dhanasekaran
-  - Francesca Petralia
-  - Jianbo Pan
-  - Xiaoyu Song
-  - Yingwei Hu
-  - Felipe da Veiga Leprevost
-  - Boris Reva
-  - Tung-Shing M Lih
-  - Hui-Yin Chang
-  - Weiping Ma
-  - Chen Huang
-  - Christopher J Ricketts
-  - Lijun Chen
-  - Azra Krek
-  - Yize Li
-  - Dmitry Rykunov
-  - Qing Kay Li
-  - Lin S Chen
-  - Umut Ozbek
-  - Suhas Vasaikar
-  - Yige Wu
-  - Seungyeul Yoo
-  - Shrabanti Chowdhury
-  - Matthew A Wyczalkowski
-  - Jiayi Ji
-  - Michael Schnaubelt
-  - Andy Kong
-  - Sunantha Sethuraman
-  - Dmitry M Avtonomov
-  - Minghui Ao
-  - Antonio Colaprico
-  - Song Cao
-  - Kyung-Cho Cho
-  - Selim Kalayci
-  - Shiyong Ma
-  - Wenke Liu
-  - Kelly Ruggles
-  - Anna Calinawan
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Daniel Geiszler
-  - Emily Kawaler
-  - Guo Ci Teo
-  - Bo Wen
-  - Yuping Zhang
-  - Sarah Keegan
-  - Kai Li
-  - Feng Chen
-  - Nathan Edwards
-  - Phillip M Pierorazio
-  - Xi Steven Chen
-  - Christian P Pavlovich
-  - A Ari Hakimi
-  - Gabriel Brominski
-  - James J Hsieh
-  - Andrzej Antczak
-  - Tatiana Omelchenko
-  - Jan Lubinski
-  - Maciej Wiznerowicz
-  - W Marston Linehan
-  - Christopher R Kinsinger
-  - Mathangi Thiagarajan
-  - Emily S Boja
-  - Mehdi Mesri
-  - Tara Hiltke
-  - Ana I Robles
-  - Henry Rodriguez
-  - Jiang Qian
-  - "David Feny\xF6"
-  - Bing Zhang
-  - Li Ding
-  - Eric Schadt
-  - Arul M Chinnaiyan
-  - Zhen Zhang
-  - Gilbert S Omenn
-  - Marcin Cieslik
-  - Daniel W Chan
-  - Alexey I Nesvizhskii
-  - Pei Wang
-  - Hui Zhang
-  - ' '
-  publisher: Cell
-  date: '2019-10-31'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31675502
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-85072142706
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.7554/eLife.38805
   title: Ancestral reconstruction reveals mechanisms of ERK regulatory evolution
   authors:
@@ -1858,16 +1613,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85095521199
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85070766187
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/s41598-019-48029-z
   title: Oncogenic G12D mutation alters local conformations and dynamics of K-Ras
   authors:
@@ -1880,11 +1625,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85094371504
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.3390/biom9110706
   title: 'Dynamical Rearrangement of Human Epidermal Growth Factor Receptor 2 upon
     Antibody Binding: Effects on the Dimerization'
@@ -1925,11 +1665,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85074623642
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1093/nar/gkz450
   title: 'ImmuneRegulation: a web-based tool for identifying human immune regulatory
     elements'
@@ -1972,16 +1707,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85095620533
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85069238232
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1158/1078-0432.CCR-18-2660
   title: Rare, Pathogenic Germline Variants in <i>Fanconi Anemia</i> Genes Increase
     Risk for Squamous Lung Cancer
@@ -1995,11 +1720,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85095542511
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/269837
   title: Rare, pathogenic germline variants in <i>Fanconi Anemia</i> genes increase
     risk for squamous lung cancer
@@ -2013,16 +1733,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85062291337
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85095642362
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/331637
   title: Ancestral resurrection reveals mechanisms of kinase regulatory evolution
   authors:
@@ -2243,21 +1953,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85058375534
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85095516434
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85050801906
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1002/cpbi.47
   title: Exploring Biological Networks in 3D, Stereoscopic 3D, and Immersive 3D with
     iCAVE
@@ -2270,11 +1965,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85046024891
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1007/s00439-018-1886-z
   title: 'High-depth whole genome sequencing of an Ashkenazi Jewish reference panel:
     enhancing sensitivity, accuracy, and imputation'
@@ -2305,11 +1995,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85047227051
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.ajhg.2018.04.011
   title: Landscape of Conditional eQTL in Dorsolateral Prefrontal Cortex and Co-localization
     with Schizophrenia GWAS
@@ -2418,11 +2103,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85095617749
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1200/PO.17.00149
   title: "Germline and Somatic Smoothened Mutations in Non\u2013Small-Cell Lung Cancer\
     \ Are Potentially Responsive to Hedgehog Inhibitor Vismodegib"
@@ -2450,11 +2130,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85065315854
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1101/167924
   title: 'High-depth whole genome sequencing of a large population-specific reference
     panel: Enhancing sensitivity, accuracy, and imputation'
@@ -2485,11 +2160,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85095620525
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.18632/oncotarget.17776
   title: Inhibition of colorectal cancer genomic copy number alterations and chromosomal
     fragile site tumor suppressor FHIT and WWOX deletions by DNA mismatch repair
@@ -2510,16 +2180,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85058859131
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85043299808
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/CDDIS.2017.288
   title: KDM2B, an H3K36-specific demethylase, regulates apoptotic response of GBM
     cells to TRAIL
@@ -2545,11 +2205,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85027463377
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/s41598-017-08321-2
   title: 'SpotOn: High Accuracy Identification of Protein-Protein Interface Hot-Spots'
   authors:
@@ -2601,34 +2256,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85042149548
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: pmid:27472327
-  title: A Machine Learning Approach for Hot-Spot Detection at Protein-Protein Interfaces.
-  authors:
-  - Rita Melo
-  - Robert Fieldhouse
-  - "Andr\xE9 Melo"
-  - "Jo\xE3o D G Correia"
-  - "Maria Nat\xE1lia D S Cordeiro"
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Joaquim Costa
-  - Alexandre M J J Bonvin
-  - Irina S Moreira
-  publisher: International journal of molecular sciences
-  date: '2016-07-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27472327
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84979919014
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.3390/ijms17081215
   title: A Machine Learning Approach for Hot-Spot Detection at Protein-Protein Interfaces
   authors:
@@ -2647,11 +2274,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84988697987
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/nn.4399
   title: Gene expression elucidates functional impact of polygenic risk for schizophrenia
   authors:
@@ -2719,11 +2341,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84995478917
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/srep37012
   title: 'Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method
     shows causality between residue pair motions'
@@ -2734,82 +2351,6 @@
   publisher: Scientific Reports
   date: '2016-11-15'
   link: https://doi.org/f9bxb6
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:26006007
-  title: Comprehensive models of human primary and metastatic colorectal tumors in
-    immunodeficient and immunocompetent mice by chemokine targeting.
-  authors:
-  - Huanhuan Joyce Chen
-  - Jian Sun
-  - Zhiliang Huang
-  - Harry Hou
-  - Myra Arcilla
-  - Nikolai Rakhilin
-  - Daniel J Joe
-  - Jiahn Choi
-  - Poornima Gadamsetty
-  - Jeff Milsom
-  - Govind Nandakumar
-  - Randy Longman
-  - Xi Kathy Zhou
-  - Robert Edwards
-  - Jonlin Chen
-  - Kai Yuan Chen
-  - Pengcheng Bu
-  - Lihua Wang
-  - Yitian Xu
-  - Robert Munroe
-  - Christian Abratte
-  - Andrew D Miller
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Michael Shuler
-  - Nozomi Nishimura
-  - Winfried Edelmann
-  - Xiling Shen
-  - Steven M Lipkin
-  publisher: Nature biotechnology
-  date: '2015-05-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26006007
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC4532544
-  title: Comprehensive models of human primary and metastatic colorectal tumors in
-    immunodeficient and immunocompetent mice by chemokine targeting
-  authors:
-  - Huanhuan Joyce Chen
-  - Jian Sun
-  - Zhiliang Huang
-  - Harry Hou
-  - Myra Arcilla
-  - Nikolai Rakhilin
-  - Daniel J Joe
-  - Jiahn Choi
-  - Poornima Gadamsetty
-  - Jeff Milsom
-  - Govind Nandakumar
-  - Randy Longman
-  - Xi Kathy Zhou
-  - Robert Edwards
-  - Jonlin Chen
-  - Kai Yuan Chen
-  - Pengcheng Bu
-  - Lihua Wang
-  - Yitian Xu
-  - Robert Munroe
-  - Christian Abratte
-  - Andrew D Miller
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Michael Shuler
-  - Nozomi Nishimura
-  - Winfried Edelmann
-  - Xiling Shen
-  - Steven M Lipkin
-  publisher: Nature biotechnology
-  date: '2015-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532544/
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
@@ -2851,16 +2392,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84930934091
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-84928151672
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1038/ncomms7879
   title: "miR-1269 promotes metastasis and forms a positive feedback loop with TGF-\u03B2"
   authors:
@@ -2889,244 +2420,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:25872451
-  title: "miR-1269 promotes metastasis and forms a positive feedback loop with TGF-\u03B2\
-    ."
-  authors:
-  - Pengcheng Bu
-  - Lihua Wang
-  - Kai-Yuan Chen
-  - Nikolai Rakhilin
-  - Jian Sun
-  - Adria Closa
-  - Kuei-Ling Tung
-  - Sarah King
-  - Anastasia Kristine Varanko
-  - Yitian Xu
-  - Joyce Huan Chen
-  - Amelia S Zessin
-  - James Shealy
-  - Bethany Cummings
-  - David Hsu
-  - Steven M Lipkin
-  - Victor Moreno
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Xiling Shen
-  publisher: Nature communications
-  date: '2015-04-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25872451
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC4399006
-  title: "miR-1269 promotes metastasis and forms a positive feedback loop with TGF-\u03B2"
-  authors:
-  - Pengcheng Bu
-  - Lihua Wang
-  - Kai-Yuan Chen
-  - Nikolai Rakhilin
-  - Jian Sun
-  - Adria Closa
-  - Kuei-Ling Tung
-  - Sarah King
-  - Anastasia Kristine Varanko
-  - Yitian Xu
-  - Joyce Huan Chen
-  - Amelia S Zessin
-  - James Shealy
-  - Bethany Cummings
-  - David Hsu
-  - Steven M Lipkin
-  - Victor Moreno
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Xiling Shen
-  publisher: Nature communications
-  date: '2015-04-15'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399006/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC3947637
-  title: 'Integrative annotation of variants from 1092 humans: application to cancer
-    genomics'
-  authors:
-  - Ekta Khurana
-  - Yao Fu
-  - Vincenza Colonna
-  - Xinmeng Jasmine Mu
-  - Hyun Min Kang
-  - Tuuli Lappalainen
-  - Andrea Sboner
-  - Lucas Lochovsky
-  - Jieming Chen
-  - Arif Harmanci
-  - Jishnu Das
-  - Alexej Abyzov
-  - Suganthi Balasubramanian
-  - Kathryn Beal
-  - Dimple Chakravarty
-  - Daniel Challis
-  - Yuan Chen
-  - Declan Clarke
-  - Laura Clarke
-  - Fiona Cunningham
-  - Uday S Evani
-  - Paul Flicek
-  - Robert Fragoza
-  - Erik Garrison
-  - Richard Gibbs
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Javier Herrero
-  - Naoki Kitabayashi
-  - Yong Kong
-  - Kasper Lage
-  - Vaja Liluashvili
-  - Steven M Lipkin
-  - Daniel G MacArthur
-  - Gabor Marth
-  - Donna Muzny
-  - Tune H Pers
-  - Graham R S Ritchie
-  - Jeffrey A Rosenfeld
-  - Cristina Sisu
-  - Xiaomu Wei
-  - Michael Wilson
-  - Yali Xue
-  - Fuli Yu
-  - ' 1000 Genomes Project Consortium'
-  - Emmanouil T Dermitzakis
-  - Haiyuan Yu
-  - Mark A Rubin
-  - Chris Tyler-Smith
-  - Mark Gerstein
-  publisher: Science (New York, N.Y.)
-  date: '2013-10-04'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3947637/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:24092746
-  title: 'Integrative annotation of variants from 1092 humans: application to cancer
-    genomics.'
-  authors:
-  - Ekta Khurana
-  - Yao Fu
-  - Vincenza Colonna
-  - Xinmeng Jasmine Mu
-  - Hyun Min Kang
-  - Tuuli Lappalainen
-  - Andrea Sboner
-  - Lucas Lochovsky
-  - Jieming Chen
-  - Arif Harmanci
-  - Jishnu Das
-  - Alexej Abyzov
-  - Suganthi Balasubramanian
-  - Kathryn Beal
-  - Dimple Chakravarty
-  - Daniel Challis
-  - Yuan Chen
-  - Declan Clarke
-  - Laura Clarke
-  - Fiona Cunningham
-  - Uday S Evani
-  - Paul Flicek
-  - Robert Fragoza
-  - Erik Garrison
-  - Richard Gibbs
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Javier Herrero
-  - Naoki Kitabayashi
-  - Yong Kong
-  - Kasper Lage
-  - Vaja Liluashvili
-  - Steven M Lipkin
-  - Daniel G MacArthur
-  - Gabor Marth
-  - Donna Muzny
-  - Tune H Pers
-  - Graham R S Ritchie
-  - Jeffrey A Rosenfeld
-  - Cristina Sisu
-  - Xiaomu Wei
-  - Michael Wilson
-  - Yali Xue
-  - Fuli Yu
-  - ' '
-  - Emmanouil T Dermitzakis
-  - Haiyuan Yu
-  - Mark A Rubin
-  - Chris Tyler-Smith
-  - Mark Gerstein
-  publisher: Science (New York, N.Y.)
-  date: '2013-10-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24092746
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC3646336
-  title: A microRNA miR-34a-regulated bimodal switch targets Notch in colon cancer
-    stem cells
-  authors:
-  - Pengcheng Bu
-  - Kai-Yuan Chen
-  - Joyce Huan Chen
-  - Lihua Wang
-  - Jewell Walters
-  - Yong Jun Shin
-  - Julian P Goerger
-  - Jian Sun
-  - Mavee Witherspoon
-  - Nikolai Rakhilin
-  - Jiahe Li
-  - Herman Yang
-  - Jeff Milsom
-  - Sang Lee
-  - Warren Zipfel
-  - Moonsoo M Jin
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Steven M Lipkin
-  - Xiling Shen
-  publisher: Cell stem cell
-  date: '2013-05-02'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3646336/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:23642368
-  title: A microRNA miR-34a-regulated bimodal switch targets Notch in colon cancer
-    stem cells.
-  authors:
-  - Pengcheng Bu
-  - Kai-Yuan Chen
-  - Joyce Huan Chen
-  - Lihua Wang
-  - Jewell Walters
-  - Yong Jun Shin
-  - Julian P Goerger
-  - Jian Sun
-  - Mavee Witherspoon
-  - Nikolai Rakhilin
-  - Jiahe Li
-  - Herman Yang
-  - Jeff Milsom
-  - Sang Lee
-  - Warren Zipfel
-  - Moonsoo M Jin
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Steven M Lipkin
-  - Xiling Shen
-  publisher: Cell stem cell
-  date: '2013-05-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23642368
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84877263242
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.stem.2013.03.002
   title: A microRNA miR-34a-Regulated Bimodal Switch Targets Notch in Colon Cancer
     Stem Cells
@@ -3156,11 +2449,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84885639776
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1126/science.1235587
   title: 'Integrative Annotation of Variants from 1092 Humans: Application to Cancer
     Genomics'
@@ -3220,125 +2508,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: pmc:PMC4419739
-  title: 'Rapid temporal changes in the expression of a set of neuromodulatory genes
-    during alcohol withdrawal in the dorsal vagal complex: molecular evidence of homeostatic
-    disturbance'
-  authors:
-  - Kate Freeman
-  - Mary M Staehle
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Rajanikanth Vadigepalli
-  - Gregory E Gonye
-  - Carmen N Nichols
-  - Babatunde A Ogunnaike
-  - Jan B Hoek
-  - James S Schwaber
-  publisher: Alcoholism, clinical and experimental research
-  date: '2012-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419739/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22486438
-  title: 'Rapid temporal changes in the expression of a set of neuromodulatory genes
-    during alcohol withdrawal in the dorsal vagal complex: molecular evidence of homeostatic
-    disturbance.'
-  authors:
-  - Kate Freeman
-  - Mary M Staehle
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Rajanikanth Vadigepalli
-  - Gregory E Gonye
-  - Carmen N Nichols
-  - Babatunde A Ogunnaike
-  - Jan B Hoek
-  - James S Schwaber
-  publisher: Alcoholism, clinical and experimental research
-  date: '2012-04-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22486438
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22863617
-  title: Chemokine 25-induced signaling suppresses colon cancer invasion and metastasis.
-  authors:
-  - Huanhuan Joyce Chen
-  - Robert Edwards
-  - Serena Tucci
-  - Pengcheng Bu
-  - Jeff Milsom
-  - Sang Lee
-  - Winfried Edelmann
-  - "Zeynep H G\xFCm\xFCs"
-  - Xiling Shen
-  - Steven Lipkin
-  publisher: The Journal of clinical investigation
-  date: '2012-08-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22863617
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC3428084
-  title: Chemokine 25-induced signaling suppresses colon cancer invasion and metastasis
-  authors:
-  - Huanhuan Joyce Chen
-  - Robert Edwards
-  - Serena Tucci
-  - Pengcheng Bu
-  - Jeff Milsom
-  - Sang Lee
-  - Winfried Edelmann
-  - "Zeynep H G\xFCm\xFCs"
-  - Xiling Shen
-  - Steven Lipkin
-  publisher: The Journal of clinical investigation
-  date: '2012-09-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428084/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22628407
-  title: miR-23a promotes the transition from indolent to invasive colorectal cancer.
-  authors:
-  - Sohail Jahid
-  - Jian Sun
-  - Robert A Edwards
-  - Diana Dizon
-  - Nicole C Panarelli
-  - Jeffrey W Milsom
-  - Shaheen S Sikandar
-  - "Zeynep H G\xFCm\xFCs"
-  - Steven M Lipkin
-  publisher: Cancer discovery
-  date: '2012-03-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22628407
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC3651884
-  title: miR-23a promotes the transition from indolent to invasive colorectal cancer
-  authors:
-  - Sohail Jahid
-  - Jian Sun
-  - Robert A Edwards
-  - Diana Dizon
-  - Nicole C Panarelli
-  - Jeffrey W Milsom
-  - Shaheen S Sikandar
-  - "Zeynep H G\xFCm\xFCs"
-  - Steven M Lipkin
-  publisher: Cancer discovery
-  date: '2012-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3651884/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84865965653
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1172/JCI62110
   title: "Chemokine 25\u2013induced signaling suppresses colon cancer invasion and\
     \ metastasis"
@@ -3379,11 +2548,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84867021686
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.3233/DMA-2012-0860
   title: Resistance/Response Molecular Signature for Oral Tongue Squamous Cell Carcinoma
   authors:
@@ -3403,54 +2567,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84856682236
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: pmc:PMC3826923
-  title: Resistance/response molecular signature for oral tongue squamous cell carcinoma
-  authors:
-  - Amritha Suresh
-  - Muhil Vannan
-  - Dhanya Kumaran
-  - "Zeynep H G\xFCm\xFCs"
-  - Priya Sivadas
-  - Elango Erode Murugaian
-  - Vikram Kekatpure
-  - Subramanian Iyer
-  - Kumarasamy Thangaraj
-  - Moni Abraham Kuriakose
-  publisher: Disease markers
-  date: '2012-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3826923/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22297602
-  title: Resistance/response molecular signature for oral tongue squamous cell carcinoma.
-  authors:
-  - Amritha Suresh
-  - Muhil Vannan
-  - Dhanya Kumaran
-  - "Zeynep H G\xFCm\xFCs"
-  - Priya Sivadas
-  - Elango Erode Murugaian
-  - Vikram Kekatpure
-  - Subramanian Iyer
-  - Kumarasamy Thangaraj
-  - Moni Abraham Kuriakose
-  publisher: Disease markers
-  date: '2012-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22297602
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84866330452
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1158/2159-8290.CD-11-0267
   title: <i>miR-23a</i> Promotes the Transition from Indolent to Invasive Colorectal
     Cancer
@@ -3467,48 +2583,6 @@
   publisher: Cancer Discovery
   date: '2012-06-01'
   link: https://doi.org/f35kx7
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:20179299
-  title: Effects of cigarette smoke on the human oral mucosal transcriptome.
-  authors:
-  - Jay O Boyle
-  - "Zeynep H G\xFCm\xFCs"
-  - Ashutosh Kacker
-  - Vishal L Choksi
-  - Jennifer M Bocker
-  - Xi Kathy Zhou
-  - Rhonda K Yantiss
-  - Duncan B Hughes
-  - Baoheng Du
-  - Benjamin L Judson
-  - Kotha Subbaramaiah
-  - Andrew J Dannenberg
-  publisher: Cancer prevention research (Philadelphia, Pa.)
-  date: '2010-02-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/20179299
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC2833216
-  title: Effects of cigarette smoke on the human oral mucosal transcriptome
-  authors:
-  - Jay O Boyle
-  - "Zeynep H G\xFCm\xFCs"
-  - Ashutosh Kacker
-  - Vishal L Choksi
-  - Jennifer M Bocker
-  - Xi Kathy Zhou
-  - Rhonda K Yantiss
-  - Duncan B Hughes
-  - Baoheng Du
-  - Benjamin L Judson
-  - Kotha Subbaramaiah
-  - Andrew J Dannenberg
-  publisher: Cancer prevention research (Philadelphia, Pa.)
-  date: '2010-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2833216/
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
@@ -3533,11 +2607,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-77949694725
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1109/BIBE.2010.46
   title: Quantification and Analysis of Combination Drug Synergy in High-Throughput
     Transcriptome Studies
@@ -3555,16 +2624,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-77956134030
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-58049163876
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/j.neuropharm.2008.07.049
   title: 'Towards a quantitative representation of the cell signaling mechanisms of
     hallucinogens: Measurement and mathematical modeling of 5-HT1A and 5-HT2A receptor-mediated
@@ -3581,81 +2640,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: pmc:PMC2635340
-  title: 'Towards a quantitative representation of the cell signaling mechanisms of
-    hallucinogens: measurement and mathematical modeling of 5-HT1A and 5-HT2A receptor-mediated
-    ERK1/2 activation'
-  authors:
-  - Chiung-Wen Chang
-  - Ethan Poteet
-  - John A Schetz
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Harel Weinstein
-  publisher: Neuropharmacology
-  date: '2009-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635340/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:18762202
-  title: 'Towards a quantitative representation of the cell signaling mechanisms of
-    hallucinogens: measurement and mathematical modeling of 5-HT1A and 5-HT2A receptor-mediated
-    ERK1/2 activation.'
-  authors:
-  - Chiung-Wen Chang
-  - Ethan Poteet
-  - John A Schetz
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Harel Weinstein
-  publisher: Neuropharmacology
-  date: '2008-08-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18762202
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:19138943
-  title: Effects of tobacco smoke on gene expression and cellular pathways in a cellular
-    model of oral leukoplakia.
-  authors:
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Baoheng Du
-  - Ashutosh Kacker
-  - Jay O Boyle
-  - Jennifer M Bocker
-  - Piali Mukherjee
-  - Kotha Subbaramaiah
-  - Andrew J Dannenberg
-  - Harel Weinstein
-  publisher: Cancer prevention research (Philadelphia, Pa.)
-  date: '2008-03-31'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19138943
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmc:PMC3773527
-  title: Effects of tobacco smoke on gene expression and cellular pathways in a cellular
-    model of oral leukoplakia
-  authors:
-  - "Zeynep H G\xFCm\xFC\u015F"
-  - Baoheng Du
-  - Ashutosh Kacker
-  - Jay O Boyle
-  - Jennifer M Bocker
-  - Piali Mukherjee
-  - Kotha Subbaramaiah
-  - Andrew J Dannenberg
-  - Harel Weinstein
-  publisher: Cancer prevention research (Philadelphia, Pa.)
-  date: '2008-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3773527/
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-79952305296
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1007/s10287-005-0025-1
   title: Global optimization of mixed-integer bilevel programming problems
   authors:
@@ -3667,11 +2651,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-22944478664
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1023/A:1011268113791
   title: ''
   authors:
@@ -3683,11 +2662,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-0035332163
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1021/ie001014g
   title: "Global Optimization in Design under Uncertainty:\u2009 Feasibility Test\
     \ and Flexibility Index Problems"
@@ -3701,16 +2675,6 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-0035802290
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-77956718317
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1016/S1570-7946(01)80061-4
   title: 'Nonlinear bilevel programming: A deterministic global optimization framework'
   authors:
@@ -3733,8 +2697,3 @@
   orcid: 0000-0002-7364-2202
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-0002964940
-  orcid: 0000-0002-7364-2202
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
